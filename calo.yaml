@@ -1,0 +1,51 @@
+path: ./
+train: train.txt
+val: val.txt
+test: val.txt
+
+names:
+  0: com_trang
+  1: bo_xao_dau_que
+  2: com_chien_duong_chau
+  3: canh_bi_dao
+  4: canh_khoai_mo
+  5: canh_kho_qua
+  6: com_tam_suon_bi
+  7: cha_trung_chung
+  8: dau_hu_don_thit
+  9: ga_kho_gung
+  10: kho_qua_xao_trung
+  11: thit_heo_quay
+  12: thit_kho_tieu
+  13: thit_kho_trung
+  14: bun_bo_hue
+  15: dui_ga_chien
+  16: suon_nuong
+  17: tom_lan_bot_chien
+  18: chao_long
+  19: bo_kho
+  20: pho_ga
+  21: pho_bo
+  22: banh_mi_o
+  23: trung_ga_ta
+  24: bia
+  25: nuoc_cam_vat
+  26: nuoc_mia
+  27: sua_chua_vinamilk
+  28: sau_hop_co_gai_ha_lan
+  29: trai_bo
+  30: Xoai
+  31: sau_rieng
+  32: dua_hau
+  33: mang_cau
+  34: buoi
+  35: khoai_lan
+  36: du_du
+  37: dau_phong
+  38: thanh_long
+  39: hu_tieu_nam_vang
+  40: banh_bao
+  41: banh_tet
+  42: banh_xeo_mien_tay
+  43: lap_xuong
+  44: cua_bien
